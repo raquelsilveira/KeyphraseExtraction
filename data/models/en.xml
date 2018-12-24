@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<en>
+	<minSenseProbability>0.01</minSenseProbability>
+	<maxContextSize>3</maxContextSize>
+	<conceptComparer>GoogleMesure</conceptComparer>
+	<linkDirection>OUT</linkDirection>
+	<linkDirection>IN</linkDirection>
+	<topicDisambiguationModel>models/disambig_en_In.model</topicDisambiguationModel>
+	<conceptDisambiguationModel>models/disambig_en_In.model</conceptDisambiguationModel>
+	<linkDetectionModel>models/detect_en_In.model</linkDetectionModel>
+</en>
